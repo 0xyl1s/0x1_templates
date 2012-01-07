@@ -1,0 +1,7 @@
+; >>> ec1livetemplate >> git_shortcuts_variation_01
+	l = log --pretty=oneline
+	c = config --global --list
+	cam = commit -am
+	s = status
+	p = pull
+; <<< ec1livetemplate << git_shortcuts_variation_01
